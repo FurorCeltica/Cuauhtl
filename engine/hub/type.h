@@ -1,9 +1,10 @@
-typedef unsigned double udouble;
+typedef unsigned double ufloat64;
 typedef unsigned float ufloat;
-typedef unsigned long long ulint2;
-typedef unsigned long ulint;
+typedef unsigned long long uint64;
+typedef unsigned long uint32;
 typedef unsigned int uint;
-typedef unsigned short ushort;
+typedef unsigned short uint16;
+typedef signed char byte;
 typedef unsigned char ubyte;
 
 typedef double[2] dvec2;
